@@ -1,5 +1,6 @@
 body {
-    background: blanchedalmond;
+    background: linear-gradient(243deg, rgb(255, 253, 221) 13.4%, rgb(248, 215, 215) 82.1%);
+    max-width: 100%;
 }
 
 .navbar-brand-active {
@@ -25,3 +26,13 @@ img {
     margin: 0 325px;
 }
 
+.email-link {
+    color: brown;
+    text-decoration: none;
+}
+
+.email-link:hover,
+.email-link:focus {
+    color:rgb(153, 88, 8);
+    font-weight: 700;
+} 
