@@ -1,0 +1,27 @@
+body {
+    background: blanchedalmond;
+}
+
+.navbar-brand-active {
+    color: brown;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+h1 {
+    color: brown;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(158, 156, 156, 0.5);
+    margin: 0 325px;
+}
+
